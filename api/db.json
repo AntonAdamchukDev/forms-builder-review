@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "asd@asd.asd",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "email": "qwe@qwe.qwe",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "email": "zxc@zxc.zxc",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "email": "rty@rty.rty",
+      "password": "123"
+    },
+    {
+      "email": "ert@ert.ert",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "qweeqwqw",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "email": "asdaf@asd.asd",
+      "password": "123",
+      "id": 7
+    }
+  ]
+}
