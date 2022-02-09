@@ -4,6 +4,7 @@ import { Router } from '@angular/router';
 import { BehaviorSubject, Subject, takeUntil } from 'rxjs';
 import { validateEmail } from '../functions/emailValidation';
 import { AuthService } from '../services/auth.service';
+
 @Component({
   selector: 'app-auth-form',
   templateUrl: './auth-form.component.html',
